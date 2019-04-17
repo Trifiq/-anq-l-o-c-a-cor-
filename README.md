@@ -1,1 +1,2 @@
-# -anq-l-o-c-a-cor-
+# super-super-heroku-bot
+Bot using heroku, 24/7!
